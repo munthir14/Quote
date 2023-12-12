@@ -1,0 +1,26 @@
+div {
+    text-align: center;
+}
+
+h1 {
+    font-size: 80px;
+    font-family: Impact;
+}
+p{
+    font-size: 38px;
+}
+
+
+button {
+    background-color: cornflowerblue;
+    width: 250px;
+    height: 80px;
+
+    color: white;
+}
+
+
+button:hover{
+    background-color: wheat;
+    color: black;
+}
